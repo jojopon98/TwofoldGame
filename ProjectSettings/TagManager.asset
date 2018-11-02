@@ -9,6 +9,8 @@ TagManager:
   - Tree
   - Sprout
   - Exit
+  - Buhn
+  - Fire Spell
   layers:
   - Default
   - TransparentFX
