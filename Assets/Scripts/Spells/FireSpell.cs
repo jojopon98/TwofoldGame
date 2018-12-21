@@ -8,6 +8,7 @@ public class FireSpell : MonoBehaviour {
     public float FireSpeed;
     Rigidbody2D FireBody;
     public GameObject DestroyedStump;
+
 	void Start () {
         FireBody = GetComponent<Rigidbody2D>();
 	}

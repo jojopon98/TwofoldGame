@@ -11,6 +11,17 @@ TagManager:
   - Exit
   - Buhn
   - Fire Spell
+  - Laser
+  - Wall Piece
+  - Hanging Crystal
+  - Star
+  - Vine
+  - Star Platform
+  - Lunaak
+  - Crystal
+  - Thunder Spell
+  - Electric Wire
+  - Earthquake Spell
   layers:
   - Default
   - TransparentFX

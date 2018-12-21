@@ -6,11 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/The Moon Tower - Entrance.unity
+    path: Assets/Scenes/Levels/Twofold Title Menu.unity
+    guid: 9afd6580b032862489b05a537e56badf
+  - enabled: 1
+    path: Assets/Scenes/Levels/The Moon Tower - Entrance.unity
     guid: 72938d45bbea0514d8b1066337a15a10
   - enabled: 1
-    path: Assets/The Moon Tower - Inner Gateway.unity
+    path: Assets/Scenes/Levels/The Moon Tower - Inner Gateway.unity
     guid: b60768fe6cee62046a77feda60ee19c0
   - enabled: 1
-    path: Assets/The Moon Tower - Hall of Ascension.unity
-    guid: 58da5642805ebe049818df1f42b8b29e
+    path: Assets/Scenes/Levels/The Moon Tower - Crystal Hall.unity
+    guid: 2e04ed24f359bce4b91167a34c31ab34
+  - enabled: 1
+    path: Assets/Scenes/Levels/The Moon Tower - The Path to Moonlight.unity
+    guid: a29de017465ce60449b24e2124842a07
+  - enabled: 1
+    path: Assets/Scenes/Levels/The Moon Tower - The Guardian of the Tower.unity
+    guid: 406a7d640755426439e39bb275504403
+  - enabled: 1
+    path: Assets/Scenes/Levels/The Moon Tower - The Monotone Mural.unity
+    guid: 4d1edbe613e421540b1f6ce47dae65e4
+  m_configObjects: {}

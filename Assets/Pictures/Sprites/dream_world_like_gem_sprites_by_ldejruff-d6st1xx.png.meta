@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: bc4cd3426ac06014fad779c878879338
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_0
+    21300002: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_1
+    21300004: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_2
+    21300006: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_3
+    21300008: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_4
+    21300010: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_5
+    21300012: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_6
+    21300014: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_7
+    21300016: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_8
+    21300018: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_9
+    21300020: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_10
+    21300022: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_11
+    21300024: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_12
+    21300026: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_13
+    21300028: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_14
+    21300030: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_15
+    21300032: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_16
+    21300034: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_17
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4cdfc70725e204fb2adcdd388cf9ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d984966a29a344fb50dd05279629b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdfe67ab9f211e4c9b5ca0d41e6912e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8988b17e56f3544e99c0cd339bbddd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470376cfb89acb43bc97a0152792dd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f69b85e750584da25bccdfdefb85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535549cd2e0134041b656b0d882628f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84587e300e2b6604fa8759858710a95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b76308f0bcf8644885a62cd6cb1991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6508079406c64f4e8500d672811ad94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c2548bebbb2e47b9a437c9d2c8ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c02d053d6c64540ad617781b6eb764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4600ac3a9b444282ffacd9a9ab944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb504538f0f4247a6a40fbb2d8b429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb6227b68e0ba428f9790f3d65b584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971da7f8022f6214da88db364d8cf09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd0a4aee4f39f045af8e108c2117481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c1d05d8512bd42a3e56af7c7248d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b442b8e7da9557344927a3d9b6d239e7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
