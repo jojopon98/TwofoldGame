@@ -22,6 +22,11 @@ TagManager:
   - Thunder Spell
   - Electric Wire
   - Earthquake Spell
+  - Light Spell
+  - Platform
+  - Electricity Supply
+  - Laser Gun
+  - Relic
   layers:
   - Default
   - TransparentFX

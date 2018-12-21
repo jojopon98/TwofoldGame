@@ -557,6 +557,12 @@ Prefab:
       propertyPath: EarthquakeView
       value: 
       objectReference: {fileID: 2100000, guid: f936d02faec2df1449fb05b100b95ae5, type: 2}
+    - target: {fileID: 114724590408869598, guid: e3a3cd01e81fcf84fbd881cf18db7c74,
+        type: 2}
+      propertyPath: LightSpell
+      value: 
+      objectReference: {fileID: 1931071769664646, guid: aa6f807d5348fa143bed80da95ddbe30,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3a3cd01e81fcf84fbd881cf18db7c74, type: 2}
   m_IsPrefabAsset: 0
@@ -1629,9 +1635,33 @@ Prefab:
       propertyPath: m_RootOrder
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 1647699199977132, guid: 1c6aabb9d1744a5469e985368cf3b772, type: 2}
+      propertyPath: m_Name
+      value: Relic
+      objectReference: {fileID: 0}
+    - target: {fileID: 1647699199977132, guid: 1c6aabb9d1744a5469e985368cf3b772, type: 2}
+      propertyPath: m_TagString
+      value: Relic
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c6aabb9d1744a5469e985368cf3b772, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1829096104 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1647699199977132, guid: 1c6aabb9d1744a5469e985368cf3b772,
+    type: 2}
+  m_PrefabInternal: {fileID: 1829096103}
+--- !u!114 &1829096105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1829096104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c0b50358f3af3429d8a3d91eae81cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2007169787
 Prefab:
   m_ObjectHideFlags: 0

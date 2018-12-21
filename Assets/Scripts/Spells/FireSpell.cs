@@ -23,7 +23,7 @@ public class FireSpell : MonoBehaviour {
             other.gameObject.SetActive(false);
             DestroyedStump.SetActive(true);
         }
-        if (other.gameObject.CompareTag("Buhn"))
+        if (other.gameObject.CompareTag("Buhn") || other.gameObject.CompareTag("Lunaak"))
         {
             Destroy(gameObject);
         }

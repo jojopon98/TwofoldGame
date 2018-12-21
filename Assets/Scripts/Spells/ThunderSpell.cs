@@ -7,6 +7,7 @@ public class ThunderSpell : MonoBehaviour {
     // Use this for initialization
     public float ThunderSpeed;
     Rigidbody2D ThunderBody;
+    public GameObject ElectricitySupply;
 
     void Start()
     {
@@ -18,7 +19,18 @@ public class ThunderSpell : MonoBehaviour {
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-
+        if(other.gameObject.CompareTag("Electricity Supply"))
+        {
+            other.gameObject.SetActive(false);
+            if (other.gameObject.CompareTag("Laser Gun"))
+            {
+                other.gameObject.SetActive(false);
+            }
+        }
+        if (other.gameObject.CompareTag("Buhn") || other.gameObject.CompareTag("Lunaak"))
+        {
+            Destroy(gameObject);
+        }
     }
     // Update is called once per frame
     void Update()

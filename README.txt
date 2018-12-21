@@ -1,6 +1,6 @@
 Twofold (Demo) Controls (only usable with a PS4 controller):
 
-L1 = Light Spell
+L1 = Light Spell [only used in level 4 for story reasons]
 L2 = Fertilize Spell
 R1 = Thunder Spell
 R2 = Fire Spell
@@ -24,22 +24,22 @@ Level 2:
 
 NOTE: The Buhns utilize a Markov model where they will have a set chance of turning before jumping across the screen.
 
-Level 3 (1/2 COMPLETE):
+Level 3:
 
 [LAWFUL SOLUTION] Quickly maneuver through the gem-powered defense system.
 [LAWFUL SOLUTION] Grow the sprout near the exit to reach it using the Fertilize Spell.
 [CHAOTIC SOLUTION] Use the Thunder Spell button to break the yellow crystal and shut down the crystal-powered defense system from the ceiling.
 [CHAOTIC SOLUTION] Use the Earthquake Spell button to drop the ceiling crystal, creating a platform to the exit.
 
-Level 4 (1/2 COMPLETE):
+Level 4:
 
 [LAWFUL SOLUTION] Use the Light Spell button to turn the stars into platforms that disappear after a few seconds and reach the exit at the top.
 [CHAOTIC SOLUTION] Use the Earthquake Spell button to crack the walls and drop a vine down, allowing you to climb up to the exit.
 
-Level 5 (1/2 COMPLETE):
+Level 5:
 
 [LAWFUL SOLUTION] Successfully escape from Lunaak, the giant bunny chasing you.
-[CHAOTIC SOLUTION] Use the Thunder Spell button to kill Lunaak.
+[CHAOTIC SOLUTION] Use the Fire Spell button to kill Lunaak.
 
 Level 6 (INCOMPLETE):
 

@@ -12,10 +12,11 @@ public class LunaakKilled : MonoBehaviour
     public float JumpTime;
     float chance;
     public bool onGround;
-    public GameObject exit;
     public Color green;
     public bool IsGreen;
     private float counter;
+    public AlignmentView Chaotic;
+    public Material ChaoticView;
     Rigidbody2D rb2D;
     SpriteRenderer sr;
 
@@ -45,7 +46,7 @@ public class LunaakKilled : MonoBehaviour
             }
             time = 0f;
         }
-        counter = GameObject.FindGameObjectsWithTag("Buhn").Length;
+        counter = GameObject.FindGameObjectsWithTag("Lunaak").Length;
         if (counter == 3f)
         {
             Speed = 1f;
@@ -102,7 +103,7 @@ public class LunaakKilled : MonoBehaviour
     }
     private void OnCollisionStay2D(Collision2D collision)
     {
-        if (Input.GetButton("Interact") && collision.gameObject.CompareTag("Buhn"))
+        if (Input.GetButton("Interact") && collision.gameObject.CompareTag("Lunaak"))
         {
             sr.color = green;
             IsGreen = true;
@@ -113,7 +114,7 @@ public class LunaakKilled : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Ground") || collision.gameObject.CompareTag("Buhn"))
+        if (collision.gameObject.CompareTag("Ground") || collision.gameObject.CompareTag("Lunaak"))
         {
             onGround = true;
         }
@@ -123,11 +124,14 @@ public class LunaakKilled : MonoBehaviour
         if (collision.gameObject.CompareTag("Fire Spell"))
         {
             gameObject.SetActive(false);
+            Chaotic.material = ChaoticView;
+            Chaotic.enabled = true;
         }
-        if (collision.gameObject.CompareTag("Fire Spell") && counter == 1f)
+        if (collision.gameObject.CompareTag("Thunder Spell"))
         {
             gameObject.SetActive(false);
-            exit.SetActive(true);
+            Chaotic.material = ChaoticView;
+            Chaotic.enabled = true;
         }
     }
 }

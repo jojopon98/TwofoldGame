@@ -320,6 +320,12 @@ Prefab:
       propertyPath: EarthquakeView
       value: 
       objectReference: {fileID: 2100000, guid: f936d02faec2df1449fb05b100b95ae5, type: 2}
+    - target: {fileID: 114724590408869598, guid: e3a3cd01e81fcf84fbd881cf18db7c74,
+        type: 2}
+      propertyPath: LightSpell
+      value: 
+      objectReference: {fileID: 1931071769664646, guid: aa6f807d5348fa143bed80da95ddbe30,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3a3cd01e81fcf84fbd881cf18db7c74, type: 2}
   m_IsPrefabAsset: 0
